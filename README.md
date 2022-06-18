@@ -16,7 +16,7 @@ and </br>
 ![image](https://user-images.githubusercontent.com/44150278/101875887-63459500-3bc6-11eb-99f0-4023b86c3df4.png)
 
 ## Training
-I used Levenberg-Marquardt algorithm to determine the weighhts for approximating different non-linear functions.   
+I used Levenberg-Marquardt algorithm to determine the weights for approximating different non-linear functions.   
   
 ![image](https://user-images.githubusercontent.com/44150278/101876160-ef57bc80-3bc6-11eb-8d8a-e25bc3577610.png)  
   
